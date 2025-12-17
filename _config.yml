@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Rilo Oberg
 description              : Rilo Oberg - Projects and CV 
-baseurl                  : "/fa2025-portfolio-RiloOberg"
+baseurl                  : "/fa25-portfolio-RiloOberg"
 
 # Theme and Style
 theme: jekyll-theme-minimal
