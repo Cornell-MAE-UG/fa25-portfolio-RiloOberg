@@ -2,7 +2,7 @@
 layout: project
 title: MAE 4272 Design Project
 description: Wind Turbine Blade Design
-technology: [Fusion 360, Python]
+technologies: [Fusion 360, Python]
 image: /assets/images/wind-turbine-blade.jpg
 ---
 
